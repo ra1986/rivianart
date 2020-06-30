@@ -1,6 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Anton|Kaushan+Script|Rochester|Sacramento');
+ @font-face {
+         font-family: "MOMCAKEPRO Bold";
+         src: url('https://gitlab.com/rivianart/mcp/-/blob/master/MOMCAKE_PRO-Bold.otf');
+         }
 
-.openSans {font-family: 'Open Sans', sans-serif;}
+.openSans {font-family: 'MOMCAKEPRO Bold', sans-serif;}
 .oswald {font-family: 'Oswald', sans-serif;}
 .anton {font-family: 'Anton', sans-serif;}
 .kaushanScript {font-family: 'Kaushan Script', cursive;}
