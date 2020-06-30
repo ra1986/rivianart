@@ -1,14 +1,14 @@
  @font-face {
-         font-family: "MOMCAKEPRO Bold";
+         font-family: 'MOMCAKEPRO Bold';
          src: url('https://gitlab.com/rivianart/mcp/-/blob/master/MOMCAKE_PRO-Bold.otf');
          }
 
 .openSans {font-family: 'MOMCAKEPRO Bold', sans-serif;}
-.oswald {font-family: 'Oswald', sans-serif;}
-.anton {font-family: 'Anton', sans-serif;}
+.oswald {font-family: 'MOMCAKEPRO Bold', sans-serif;}
+.anton {font-family: 'MOMCAKEPRO Bold', sans-serif;}
 .kaushanScript {font-family: 'Kaushan Script', cursive;}
-.rochester {font-family: 'Rochester', sans-serif;}
-.sacramento {font-family: 'Sacramento', sans-serif;}
+.rochester {font-family: 'MOMCAKEPRO Bold', sans-serif;}
+.sacramento {font-family: 'MOMCAKEPRO Bold', sans-serif;}
 
 .uppercase-text {text-transform: uppercase;}
 .lowercase-text {text-transform: lowercase;}
